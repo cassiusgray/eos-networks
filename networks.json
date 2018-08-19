@@ -50,6 +50,13 @@
         "description": "Public node provided by GenerEOS"
       },
       {
+        "name": "BlockGenesys",
+        "protocol": "https",
+        "port": 443,
+        "url": "node1.blockgenesys.com",
+        "description": "EOS public node brought to you by Block Genesys"
+      },
+      {
         "name": "Scatter Load Balancer",
         "protocol": "https",
         "port": 443,
